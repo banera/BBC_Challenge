@@ -4,9 +4,11 @@ The project folder contains the following files:
 
 Home.html -> home page for the web app
 
-src -> source code
-lib -> javascript frameworks
-css -> styles
+src -> source code;
+
+lib -> javascript frameworks;
+
+css -> styles;
 
 Run Home.html to execute the application.
 
